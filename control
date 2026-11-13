@@ -1,0 +1,9 @@
+Package: com.cups.banneranim
+Name: BannerAnim
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Description: Animasi banner notifikasi ala iOS 27
+Maintainer: you
+Author: you
+Section: Tweaks
+Depends: mobilesubstrate
